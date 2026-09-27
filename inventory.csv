@@ -1,0 +1,5 @@
+type,name,price,quantityInStock,field1,field2,field3,field4
+ITEM,Chicken Feed 20lb,14.99,25,Feed,,,
+ITEM,Rabbit Hutch,89.99,4,Supplies,,,
+ANIMAL,Duckling,8.0,15,Duck,Pekin,false,
+ANIMAL,Hamster,12.5,6,Hamster,Syrian,true,Miller's Small Animal Farm
